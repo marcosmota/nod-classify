@@ -1,10 +1,10 @@
-# NodClassify
+# Nod Classify
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.4.
+![alt text](https://raw.githubusercontent.com/marcosmota/nod-classify/main/docs/arch.png "scren")
 
+This is a toy project in Angular that uses Deep Learning to classify head nods.
 
-
-
+The machine learning model was trained through [Teachable Machine](https://teachablemachine.withgoogle.com/) and the predictions served with TensorflowJs.
 
 ## Development server
 
